@@ -1,0 +1,9 @@
+# Compiled classes
+*.class
+
+# JUnit console launcher (downloaded, not checked in)
+junit-platform-console-standalone.jar
+
+# Build output
+build/
+target/
